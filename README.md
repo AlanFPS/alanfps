@@ -4,7 +4,7 @@ Hi 👋 My name is Alan (:
 Full Stack Software Engineer 💻
 
 * 🤝  I'm open to collaborating on interesting projects.
-* ⚡  Currently learning AI, machine learning & 2D/3D game development.
+* ⚡  Currently working on AI, machine learning & 2D/3D game development.
 
 ### Skills
 
